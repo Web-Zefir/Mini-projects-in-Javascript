@@ -1,0 +1,15 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+*, 
+*::before, 
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(5,218,112,0.7763480392156863) 33%, rgba(12,78,156,0.6502976190476191) 76%);
+}
+
